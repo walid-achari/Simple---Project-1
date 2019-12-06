@@ -1,0 +1,72 @@
+.body { background: -webkit-linear-gradient( grey , silver , grey ) ;
+}
+
+.headline , h3 {text-indent:40%;}
+
+.h3 {text-indent:45%;}
+
+#img-div {
+ background: rgb(210, 218, 223);
+ width: 80%;
+ height: 600px;
+ margin: 40px auto;
+}
+
+img {
+ max-width: 100%;
+ display: block;
+ height: auto;
+ margin: 0px auto;
+ padding: 50px 0 20px 0;
+}
+
+#img-caption {
+ font-size: 17px;
+ text-align: center;
+ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.timeline {
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+
+#title {
+ font-size: 25px;
+ box-shadow: 0px 20px 20px  rgba(0,0,0,0.19);
+ width: 500px;
+ text-align: center;
+}
+
+
+#tribute-info {
+ font-size: 17px;
+ word-spacing: 4px;
+ border: 0px solid grey;
+ width: 800px;
+ margin-left: 250px;
+ box-shadow: 0px 20px 20px  rgba(56, 47, 47, 0.19)
+ }
+ 
+ .bottom {
+   margin: 10px;
+   text-align: center
+ }
+ 
+ .finish {
+ font-size: 22px;
+ font-weight: bold
+ }
+ 
+ #tribute-link {
+ font-size: 18px;
+ text-decoration: none;
+ }
+ 
+ .footer {
+ font-size: 15px;
+ background: black;
+ border-radius: 10px;
+ color: grey;
+ text-align: center;
